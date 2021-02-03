@@ -23,5 +23,5 @@ lList.head.next = second
 second.next = third
 
 lList.printList()
-    
+
 print ("Complete")
